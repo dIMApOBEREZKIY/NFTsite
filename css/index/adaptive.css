@@ -1,0 +1,84 @@
+@media screen and (max-width: 992px) {
+    .img-nft1{
+        max-width:280px;
+        max-height: 280px;
+    }
+    .text-all h1{
+        font-size: 30px;
+    }  
+    .text-all{
+        padding-right: 25px;
+    }
+    .nft-text{
+        max-width: 480px;
+    }
+    .btndiscover{
+        width: 160px;
+        height: 50px;
+    }
+  
+}
+@media screen and (max-width: 768px) {
+    h1{
+        font-size: 28px;
+    }
+    h2{
+        font-size: 24px
+    }
+    h3{
+        font-size: 20px;
+    }
+    .nft-1{
+        padding-top: 0px;
+    }
+    .nft1{
+        max-width: 150px;
+        max-height: 150px;
+    }
+    .nft2{
+        max-width: 150px;
+        max-height: 150px;
+    }
+    .nft3{
+        max-width: 200px;
+        max-height: 150px;
+    }
+}
+@media screen and (max-width: 576px) {
+    .button-flex{
+    display: flex;
+    flex-direction: column;
+    }
+    .btnhead1{
+        margin-top: 5px;
+    }
+    p{
+        font-size: 12px;
+    }
+    h1{
+        font-size: 26px;
+    }
+    h2{
+        font-size: 22px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    .nft-text{
+        max-width: 200px;
+        padding-top: 15px;
+    }
+    .nft1{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .nft2{
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .nft3{
+        max-width: 160px;
+        max-height: 100px;
+    }
+
+}
