@@ -1,0 +1,49 @@
+@media screen and (max-width: 768px) {
+    .img-nft1{
+        max-width: 200px;
+        max-height: 200px;
+        margin-right: 55px;
+    }
+    h1{
+        font-size: 28px;
+    }
+    p{
+        font-size: 14px;
+    }
+    .text-all{
+        max-width: 500px;
+        padding-right: 150px;
+}
+}
+@media screen and (max-width: 768px) {
+    .text-all{
+        max-width: 400px;
+        padding-right: 100px;
+    }
+    .img-nft1{
+        max-width: 120px;
+        max-height: 120px;
+        margin-right: 45px;
+    }
+    h1{
+        font-size: 24px;
+    }
+    p{
+        font-size: 12px;
+    }
+    .askforme img{
+        max-height: 16px;
+        max-width: 16px;
+        }
+        .button-flex{
+            display: flex;
+            flex-direction: column;
+            }
+            .btnhead1{
+                margin-top: 5px;
+            }
+            .textfooter1{
+                padding-right:50px ;
+                max-width:200px ;
+                }
+}
